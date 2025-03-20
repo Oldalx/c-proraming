@@ -7,7 +7,7 @@ void main (){
 
           
            if (a[i]>largest){
-           largest =a[i];
+           largest =a[i]; 
            }
            if (a[i]<smallest)
            {
